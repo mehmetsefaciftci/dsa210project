@@ -1,8 +1,4 @@
-# Machine Learning Analysis for Climate and Agricultural Yield
 
-This notebook contains the implementation of regression models to analyze the impact of climate variables on agricultural productivity for selected countries.
-
-# Assume df is your DataFrame containing columns: 'country', 'year', 'temperature', 'precipitation', 'dry_days', 'yield'
 
 # Filter for countries of interest
 countries = ['Germany', 'India', 'Nigeria', 'United States of America', 'Brazil', 'Australia']
