@@ -56,6 +56,3 @@ Climate change poses significant risks to global agriculture, influencing crop y
 ├── scripts/ # Python scripts for reusable functions and data pipelines
 ├── reports/ # Final report and presentations
 │ └── final_report.pdf
-
-yaml
-Kopyala
